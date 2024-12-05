@@ -9,9 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "debug": "^4.3.7",
     "express": "^4.21.1",
-    "lodash": "^4.17.21",
     "moca": "^0.4.3",
     "nodemon": "^3.1.7"
   }
