@@ -10,7 +10,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.1",
-    "moca": "^0.4.3",
+    "lodash": "^4.17.21",
     "nodemon": "^3.1.7"
   }
 }
